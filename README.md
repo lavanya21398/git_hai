@@ -23,5 +23,5 @@ this is horizontal line
 ##heading3
 
 
-how to open hyper links[apssdc](https://www.apssdc.in)
-[ciet college](https://www.chalapathiengg.ac.in/)
+how to open hyper links[apssdc] (https://www.apssdc.in)
+[ciet college] (https://www.chalapathiengg.ac.in/)
